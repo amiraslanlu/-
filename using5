@@ -1,0 +1,3 @@
+for(int i = 0 ; i<=random1 ; i++){                 
+    textBox1.Text +=  Convert.ToString(horof[n.Next(0 , 62)]);
+}
