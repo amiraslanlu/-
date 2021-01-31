@@ -1,0 +1,1 @@
+int baghi = Convert.ToInt32(numericUpDown1.Text)-random1;
