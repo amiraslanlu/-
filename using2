@@ -1,0 +1,3 @@
+Random n = new Random();
+textBox1.Text = ""; 
+int random1 = 0;
